@@ -1,0 +1,19 @@
+{
+  "name": "npm-test1",
+  "version": "1.0.0",
+  "description": "npm-test1\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t0wka/npm-test1.git"
+  },
+  "author": "t0wka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t0wka/npm-test1/issues"
+  },
+  "homepage": "https://github.com/t0wka/npm-test1#readme"
+}
